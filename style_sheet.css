@@ -4,6 +4,7 @@
 }
 html {
   background: #999;
+  font-family: "Inter", sans-serif;
 }
 body {
   overflow-y: scroll;
